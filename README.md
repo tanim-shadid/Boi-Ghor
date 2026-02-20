@@ -1,11 +1,11 @@
-# 📚 BOI GHOR
+#  BOI GHOR
 
 An online bookstore platform where users can browse and manage books.
 Built with **Node.js, Express, and MongoDB**.
 
 ---
 
-# 📖 Project Description
+#  Project Description
 
 **Boi Ghor** is a full-stack bookstore application designed to manage books and users.
 
@@ -15,7 +15,7 @@ The goal of this project is to practice backend development, REST APIs, and data
 
 ---
 
-# ✨ Features
+#  Features
 
 * User authentication
 * Add new books
@@ -27,7 +27,7 @@ The goal of this project is to practice backend development, REST APIs, and data
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Frontend
 
@@ -65,7 +65,7 @@ Boi-Ghor
 
 ---
 
-# ⚙ Installation Guide
+#  Installation Guide
 
 ### 1. Clone the repository
 
@@ -111,7 +111,7 @@ npm start
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 * Payment system
 * Book search
@@ -121,7 +121,7 @@ npm start
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Tanim**
 
@@ -130,6 +130,4 @@ GitHub: https://github.com/tanim-shadid
 
 ---
 
-# 📄 License
 
-This project is created for learning purposes.

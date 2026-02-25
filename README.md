@@ -9,7 +9,7 @@ Built with **Node.js, Express, and MongoDB**.
 
 **Boi Ghor** is a full-stack bookstore application designed to manage books and users.
 
-Users can browse available books, while administrators can add, update, and remove books from the system.
+Users can browse available books from the system.
 
 The goal of this project is to practice backend development, REST APIs, and database integration.
 
